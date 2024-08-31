@@ -29,11 +29,8 @@ Ensure that the URL in the main function points to the e-commerce site you want 
 
 Run the script to start scraping and storing data:
 
-bash
-Copy code
-python scraper.py
-Code Overview
 Database Connection:
+
 The create_db_connection function establishes a connection to your MySQL database.
 
 Table Creation: 
